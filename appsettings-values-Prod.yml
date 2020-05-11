@@ -1,0 +1,5 @@
+Value1: test12_Prod
+Value2: another-test12_Prod
+appsettings:
+     service1: service1_test12_Prod
+     service2: service2_test12_Prod

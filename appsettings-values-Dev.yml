@@ -1,0 +1,5 @@
+Value1: some-val_latest
+Value2: another-val_latest
+appsettings:
+     service1: service1_value_latest_116-2020
+     service2: service2_value_latest_12-24

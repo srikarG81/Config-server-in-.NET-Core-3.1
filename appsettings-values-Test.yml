@@ -1,0 +1,5 @@
+Value1: newvalue
+Value2: another-newvalue
+appsettings:
+     service1: service1_newvalue
+     service2: service2_newvalue
